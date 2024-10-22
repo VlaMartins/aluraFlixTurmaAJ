@@ -1,4 +1,10 @@
 body{
-    background-color: black;
+    background-color: rgb(24, 10, 10);
     color: beige;
+}
+
+section{
+    background: rgb(68, 50, 87);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
